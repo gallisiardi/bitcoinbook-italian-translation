@@ -8,21 +8,29 @@ Il progetto originale è disponibile qui: https://github.com/bitcoinbook/bitcoin
 
 Il libro è acquistabile qui: https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388
 
-La traduzione in italiano è stata eseguida da molti traduttori differenti sulla piattaforma Transifex.com e si riferisce alla prima edizione del libro.
 
-Le traduzioni in italiano possono essere scaricate da Transifex.com tramite questa pagina: https://www.transifex.com/aantonop/mastering-bitcoin/language/it/
-
+## SECONDA EDIZIONE:
 **UPDATE 14-08-2019:**
 Riccardo Masutti ha effettuato una traduzione completa della 2° edizione del libro.
-Il pdf può essere scaricato qui: https://www.riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
 
-Se desiderate la versione cartaceo o l'ebook sono dispnibili qui: 
+Il pdf può essere scaricato qui: 
+
+https://www.riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
+
+Se desiderate la versione cartaceo o l'ebook sono dispnibili qui:
+
 Cartaceo: https://www.amazon.it/dp/1081849118/ 
+
 Ebook: https://www.amazon.it/dp/B07WHDK5K9/ 
 
 Acquistando il libro sostenente il lavoro di traduzione di Riccardo.
 
 
+## PRIMA EDIZIONE:
+
+La traduzione in italiano è stata eseguida da molti traduttori differenti sulla piattaforma Transifex.com e si riferisce alla prima edizione del libro.
+
+Le traduzioni in italiano possono essere scaricate da Transifex.com tramite questa pagina: https://www.transifex.com/aantonop/mastering-bitcoin/language/it/
 
 ## ISTRUZIONI:
 
